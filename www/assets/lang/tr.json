@@ -129,7 +129,7 @@
     "addon.messages.type_search": "Arama sonuçları",
     "addon.messages.type_strangers": "Diğerleri",
     "addon.messages.unblockcontact": "Engellemeyi kaldır",
-    "addon.messages.warningmessagenotsent": "{{user}} kullanıcısına mesaj gönderilemedi. Hata: {{error}}"
+    "addon.messages.warningmessagenotsent": "{{user}} kullanıcısına mesaj gönderilemedi. Hata: {{error}}",
     "addon.mod_assign.acceptsubmissionstatement": "Please accept the submission statement.",
     "addon.mod_assign.addattempt": "Yeniden denemeye izin ver",
     "addon.mod_assign.addnewattempt": "Yeni bir deneme ekle",
@@ -731,7 +731,7 @@
     "addon.notes.sitenotes": "Site notları",
     "addon.notes.userwithid": "Kullanıcı IDsi: {{id}}",
     "addon.notes.warningnotenotsent": "{{course}} dersine not eklenemedi. Hata mesajı: {{error}}",
-    "addon.notifications.errorgetnotifications": "Bildirimler alınamadı';
+    "addon.notifications.errorgetnotifications": "Bildirimler alınamadı",
     "addon.notifications.markallread": "TÜmünü okundu olarak işaretle",
     "addon.notifications.notificationpreferences": "Bildirim tercihleri",
     "addon.notifications.notifications": "Bildirimler",
@@ -1053,7 +1053,7 @@
     "core.captureaudio": "Ses kaydet",
     "core.capturedimage": "Çekilen fotoğraf.",
     "core.captureimage": "Fotoğraf çek",
-    "core.capturevideo": "Vidyo kaydet',
+    "core.capturevideo": "Vidyo kaydet",
     "core.category": "Kategori",
     "core.choose": "Seç",
     "core.choosedots": "Seçiniz...",
@@ -1195,7 +1195,7 @@
     "core.errorinvalidresponse": "Yanlış cevap alındı. Site yöneticinizle görüşün",
     "core.errorloadingcontent": "İçerik yüklenemedi",
     "core.errorofflinedisabled": "Sitede çevrim dışı gezinme kullanılamaz. İnternete bağlanmanız gerekiyorsa uygulamayı kullanın",
-    "core.erroropenfilenoapp": erroropenfilenoapp
+    "core.erroropenfilenoapp": "Dosya Açılamadı",
     "core.erroropenfilenoextension": "Dosya açılamadı: dosyanın uzantısı eksik.",
     "core.erroropenpopup": "Bu etkinlik popup açmaya çalışıyor. Bu uygulama da bunu yapamazsınız",
     "core.errorrenamefile": "Dosya yeniden adlandırılamadı. Lütfen tekrar edeneyin",
