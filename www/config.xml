@@ -12,10 +12,9 @@
         Matematik Akademim
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
-    </author>
-
+    <author href="http://www.matematikakademim.com" email="bilgi@matematikakademim.com">
+		Matematik Akademim
+	</author>
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
         <string>3.5.20</string>
     </edit-config>
